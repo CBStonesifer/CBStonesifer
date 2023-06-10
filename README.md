@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 <p>
-Welcome to my Github Repository! My name is Carter Stonesifer and I am a student of Electrical & Computer Engineering and Computer Science at Duke University. My aspiration is to build a successful career in a related field. I have a passion for science, technology, and design. I am particularly interested in Web3 and its underlying blockchain technology. I like to learn of new ways engineering can solve everyday issues and I am seeking opportunities to implent them myself!
+Welcome to my Github Repository! My name is Carter Stonesifer and I recently graduated from Duke University with a double major in Electrical & Computer Engineering and Computer Science. My aspiration is to build a successful career in a related field. I have a passion for science, technology, and design. I like to learn of new ways engineering can solve everyday issues and I am seeking opportunities to implent them myself!
 </p>
 
 <p align="center">
