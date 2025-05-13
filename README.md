@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 <p>
-Welcome to my GitHub Repository! My name is Carter Stonesifer and I recently graduated from Duke University with a double major in Electrical & Computer Engineering and Computer Science. My aspiration is to build a successful career in software engineering. I have a passion for science, technology, and design. I like to learn of new ways engineering can solve everyday issues and I am seeking opportunities to implement them myself.
+Welcome to my GitHub Repository!
 </p>
 
 <p align="center">
