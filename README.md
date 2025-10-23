@@ -3,6 +3,10 @@
 Welcome to my GitHub Repository!
 </p>
 
+<p>
+Also checkout a project I am building here (very new)-> https://samplr-frontend.vercel.app/
+</p>
+
 <p align="center">
 </p>
 
